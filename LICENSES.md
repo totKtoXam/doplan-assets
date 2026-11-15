@@ -87,3 +87,17 @@ Machine-readable per-entry licence/author fields are in `catalog.json`.
 ## Not fetched by the script
 - Quaternius "Ultimate House Interior Pack" and Kenney "Furniture Pack" (CC0, OpenGameArt) are listed in the manifest
   but need an offline OBJ/FBX to glTF conversion, so they are not part of the catalog.
+
+## Khronos glTF-Sample-Assets entries under CC-BY-4.0 (attribution)
+
+| entry | model | author (as recorded by Khronos) | source |
+| --- | --- | --- | --- |
+| asset_khr_glamvelvetsofa | Glam Velvet Sofa | Wayfair, LLC / Eric Chadwick | https://github.com/KhronosGroup/glTF-Sample-Assets/tree/main/Models/GlamVelvetSofa |
+| asset_khr_sheenwoodleathersofa | Sheen Wood Leather Sofa | DGG / Eric Chadwick (CC-BY-4.0); Fran Calvente (CC0 parts) | https://github.com/KhronosGroup/glTF-Sample-Assets/tree/main/Models/SheenWoodLeatherSofa |
+| asset_khr_chairdamaskpurplegold | Chair Damask Purple-gold | Wayfair / Eric Chadwick | https://github.com/KhronosGroup/glTF-Sample-Assets/tree/main/Models/ChairDamaskPurplegold |
+| asset_khr_commercialrefrigerator | Commercial Refrigerator | DGG / Eric Chadwick; Sean Thomas | https://github.com/KhronosGroup/glTF-Sample-Assets/tree/main/Models/CommercialRefrigerator |
+| asset_khr_anisotropybarnlamp | Anisotropy Barn Lamp | Wayfair / Eric Chadwick | https://github.com/KhronosGroup/glTF-Sample-Assets/tree/main/Models/AnisotropyBarnLamp |
+| asset_khr_iridescencelamp | Iridescence Lamp | Wayfair / Eric Chadwick | https://github.com/KhronosGroup/glTF-Sample-Assets/tree/main/Models/IridescenceLamp |
+| asset_khr_glasshurricanecandleholder | Glass Hurricane Candle Holder | Wayfair / Eric Chadwick | https://github.com/KhronosGroup/glTF-Sample-Assets/tree/main/Models/GlassHurricaneCandleHolder |
+| asset_khr_diffusetransmissionplant | Diffuse Transmission Plant | DGG / Eric Chadwick (CC-BY-4.0); Rico Cilliers (CC0 parts) | https://github.com/KhronosGroup/glTF-Sample-Assets/tree/main/Models/DiffuseTransmissionPlant |
+| asset_khr_lightspunctuallamp | Lights Punctual Lamp | DGG | https://github.com/KhronosGroup/glTF-Sample-Assets/tree/main/Models/LightsPunctualLamp |
